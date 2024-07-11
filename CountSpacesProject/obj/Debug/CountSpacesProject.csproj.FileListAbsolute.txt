@@ -1,0 +1,7 @@
+D:\VS Projects GitHub\Count-Spaces-Project\CountSpacesProject\bin\Debug\CountSpacesProject.exe.config
+D:\VS Projects GitHub\Count-Spaces-Project\CountSpacesProject\bin\Debug\CountSpacesProject.exe
+D:\VS Projects GitHub\Count-Spaces-Project\CountSpacesProject\bin\Debug\CountSpacesProject.pdb
+D:\VS Projects GitHub\Count-Spaces-Project\CountSpacesProject\obj\Debug\CountSpacesProject.csproj.AssemblyReference.cache
+D:\VS Projects GitHub\Count-Spaces-Project\CountSpacesProject\obj\Debug\CountSpacesProject.csproj.CoreCompileInputs.cache
+D:\VS Projects GitHub\Count-Spaces-Project\CountSpacesProject\obj\Debug\CountSpacesProject.exe
+D:\VS Projects GitHub\Count-Spaces-Project\CountSpacesProject\obj\Debug\CountSpacesProject.pdb
